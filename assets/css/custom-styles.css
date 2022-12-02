@@ -1,5 +1,17 @@
 @import url('https://fonts.googleapis.com/css2? family=Source+Sans+Pro:wght@600&display=swap');
 
+body {
+ background-color: #3f3b3b !important; 
+}
+
 .post-entry {
   font-family: 'Source Sans Pro', sans-serif !important;
+}
+
+.navbar-custom {
+  background-color: #2e2a2a !important;
+}
+
+.navbar-custom .navbar-brand, .navbar-custom .navbar-nav .nav-link {
+    color: #efefef !important;
 }
