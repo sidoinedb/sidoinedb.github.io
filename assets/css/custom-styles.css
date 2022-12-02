@@ -1,17 +1,74 @@
 @import url('https://fonts.googleapis.com/css2? family=Source+Sans+Pro:wght@600&display=swap');
 
-body {
- background-color: #332f2f !important; 
+body{
+  background-color:  #332f2f !important; 
 }
 
-.post-entry {
-  font-family: 'Source Sans Pro', sans-serif !important;
-}
-
-.navbar-custom {
+.navbar-custom{
   background-color: #2e2a2a !important;
+  border: non
 }
 
-.navbar-custom .navbar-brand, .navbar-custom .navbar-nav .nav-link {
-    color: #efefef !important;
+.navbar-brand{
+  font-family:
+  font-size:
+  font-weight
+  color:
+}
+
+.nav-link{
+  font-family:
+  font-size:
+  font-weight:
+  color:
+}
+
+.navbar-custom .navbar-brand, .navbar-custom .navbar-nav .nav-link{
+  font-family:
+  font-size:
+  font-weight:
+  color: #efefef !important;
+}
+
+.page-subheading{
+  font-family:
+  font-size:
+  font-weight:
+  color:
+}
+
+h1{
+  font-family:
+  font-size:
+  font-weight:
+  color:
+}
+
+h2{
+  font-family:
+  font-size:
+  font-weight:
+  color:
+}
+
+h3{
+  font-family:
+  font-size:
+  font-weight:
+  font-style:
+  color:
+}
+
+.post-entry{
+  font-family: 'Source Sans Pro', sans-serif !important;
+  font-size:
+  font-weight:
+  color:
+}
+
+.post-read-more{
+  font-family:
+  font-size:
+  font-weight:
+  color:
 }
