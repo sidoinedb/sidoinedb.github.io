@@ -8,9 +8,9 @@ body {
   font-family: 'Source Sans Pro', sans-serif !important;
 }
 
-.navbar-custom {
+.navbar-custom{
   background-color: #2e2a2a !important;
-  border: none;
+  border: none !important;
 }
 
 .navbar-custom .navbar-brand, .navbar-custom .navbar-nav .nav-link {
