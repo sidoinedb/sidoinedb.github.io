@@ -10,7 +10,7 @@ body {
 
 .navbar-custom {
   background-color: #2e2a2a !important;
-  border: none !important;
+  border: none;
 }
 
 .navbar-custom .navbar-brand, .navbar-custom .navbar-nav .nav-link {
