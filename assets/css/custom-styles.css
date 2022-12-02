@@ -27,4 +27,5 @@ span.page-subheading{
 
 hr.small {
     color: #efefef !important;
+ max-width: 5.00rem;
 }
