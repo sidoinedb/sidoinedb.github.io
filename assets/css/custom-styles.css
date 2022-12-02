@@ -16,3 +16,15 @@ body {
 .navbar-custom .navbar-brand, .navbar-custom .navbar-nav .nav-link {
     color: #efefef !important;
 }
+
+h1{
+  color: #2e2a2a !important;
+}
+
+span.page-subheading{
+ color: #2e2a2a !important;
+}
+
+hr.smal{
+ color: #2e2a2a !important;
+}
