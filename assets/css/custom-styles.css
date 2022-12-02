@@ -6,7 +6,7 @@ body{
 
 .navbar-custom{
   background-color: #2e2a2a !important;
-  border: none
+  border: none !important;
 }
 
 .navbar-brand{
