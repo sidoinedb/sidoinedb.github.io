@@ -29,3 +29,9 @@ hr.small {
     color: #efefef !important;
  max-width: 5.00rem;
 }
+
+.navbar-custom .avatar-container .avatar-img {
+    width: 150%;
+    border-radius: none !important;
+    display: block;
+}
