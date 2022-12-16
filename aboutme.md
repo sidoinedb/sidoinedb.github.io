@@ -1,16 +1,13 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Besoin d'en apprendre plus sur moi ? c’est ici que ça se passe :)
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Je m'appelle Sidoine Drouard Beucher. Âgée de 20 ans, je suis étudiante en Design Numérique (web design, graphisme digital, motion, photos, vidéos).
 
-- I rock a great mustache
-- I'm extremely loyal to my family
 
-What else do you need?
+Actuellement étudiante en 3ème année de DNMADE (Diplôme National des Métiers d’Art et du Design) option Numérique au Lycée Le Paraclet à Quimper, je suis à la recherche d’un Master en communication audiovisuel, ainsi que d’une alternance dans les domaines de la publicité ou du cinéma pour la rentrée scolaire 2023.
 
-### My story
+###  Curriculum Vitae
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
