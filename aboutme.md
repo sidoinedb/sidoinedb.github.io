@@ -1,7 +1,8 @@
 ---
 layout: page
 title: À propos de moi
-subtitle: Besoin d'en apprendre plus sur moi ? c’est ici que ça se passe :)
+subtitle: Besoin d'en apprendre plus sur moi ?
+c’est ici que ça se passe :)
 ---
 
 Je m'appelle Sidoine Drouard Beucher. Âgée de 20 ans, je suis étudiante en Design Numérique (web design, graphisme digital, motion, photos, vidéos).
