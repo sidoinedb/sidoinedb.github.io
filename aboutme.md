@@ -11,3 +11,4 @@ Actuellement étudiante en 3ème année de DNMADE (Diplôme National des Métier
 
 ###  Curriculum Vitae
 
+![CV](/assets/img/CV Sidoine 2022-2023.png)
