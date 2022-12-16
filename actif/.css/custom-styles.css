@@ -33,3 +33,8 @@ hr.small {
 footer {
     background-color: #efefef !important;
 }
+
+body {
+    font-family: 'Helvetica Neue';
+    color: #efefef;
+}
