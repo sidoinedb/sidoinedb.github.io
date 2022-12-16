@@ -35,6 +35,6 @@ footer {
 }
 
 body {
-    font-family: 'Helvetica Neue';
-    color: #efefef;
+    font-family: 'Source Sans Pro', sans-serif !important;
+    color: #efefef !important;
 }
